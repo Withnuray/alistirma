@@ -1,2 +1,2 @@
-# Al-t-rma
-Alıştırma
+# alistirma
+Alıştırmalarımın olduğu repo
